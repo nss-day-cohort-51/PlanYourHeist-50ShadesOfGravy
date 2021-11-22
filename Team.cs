@@ -5,11 +5,10 @@ namespace _50ShadesOfGravy
     public class Team
     {
         public List<TeamMember> TeamList { get; set; }
-        private static int _TeamIncrementer = 0;
-        public int NumOfMembers { get; set; }
+
         public Team()
         {
-            NumOfMembers = _TeamIncrementer++;
+
             TeamList = new List<TeamMember>();
         }
         public bool AddTeamMember()
@@ -25,10 +24,12 @@ namespace _50ShadesOfGravy
             {
                 Name = name,
                 SkillLevel = skillLevel,
-                Courage = courage
+                Courage = courage,
             };
-            Console.WriteLine(newTeamMember.Name + " " + newTeamMember.SkillLevel + " " + newTeamMember.Courage + " " + NumOfMembers);
+
+            Console.WriteLine(newTeamMember.Name + " has a skill level of: " + newTeamMember.SkillLevel + "and a Courage Factor of: " + newTeamMember.Courage + ". Current Amount of Members:  " + newTeamMember.NumOfMembers);
             TeamList.Add(newTeamMember);
+
             return true;
         }
         public string Prompt(string promptText)
