@@ -1,0 +1,16 @@
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.exe
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.deps.json
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.runtimeconfig.json
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.runtimeconfig.dev.json
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.dll
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\ref\50ShadesOfGravy.dll
+C:\Users\trump\workspace\50ShadesOfGravy\bin\Debug\net5.0\50ShadesOfGravy.pdb
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.csproj.AssemblyReference.cache
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.AssemblyInfoInputs.cache
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.AssemblyInfo.cs
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.csproj.CoreCompileInputs.cache
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.dll
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\ref\50ShadesOfGravy.dll
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.pdb
+C:\Users\trump\workspace\50ShadesOfGravy\obj\Debug\net5.0\50ShadesOfGravy.genruntimeconfig.cache
