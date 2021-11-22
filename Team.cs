@@ -27,8 +27,15 @@ namespace _50ShadesOfGravy
                 Courage = courage,
             };
 
-            Console.WriteLine(newTeamMember.Name + " has a skill level of: " + newTeamMember.SkillLevel + "and a Courage Factor of: " + newTeamMember.Courage + ". Current Amount of Members:  " + newTeamMember.NumOfMembers);
+
             TeamList.Add(newTeamMember);
+
+            // Console.WriteLine(newTeamMember.Name + " has a skill level of: " + newTeamMember.SkillLevel + " and a Courage Factor of: " + newTeamMember.Courage + ". Current Amount of Members:  " + newTeamMember.NumOfMembers);
+
+            foreach (TeamMember member in TeamList)
+            {
+                Console.WriteLine(member.Name + " has a skill level of: " + member.SkillLevel + " and a Courage Factor of: " + member.Courage + ". Current Amount of Members: " + member.NumOfMembers);
+            }
 
             return true;
         }
